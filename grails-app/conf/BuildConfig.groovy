@@ -13,7 +13,7 @@ grails.project.dependency.resolution = {
     }
 
     dependencies {
-        compile 'net.errbuddy.plugins:react-asset-pipeline:1.0.5'
+        compile 'net.errbuddy.plugins:react-asset-pipeline:1.0.6'
     }
     plugins {
 

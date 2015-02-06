@@ -1,5 +1,5 @@
 class ReactAssetPipelineGrailsPlugin {
-   def version = "1.0.0"
+   def version = "1.0.4"
     def grailsVersion = "2.2 > *"
     def title = "React Asset-Pipeline Plugin"
     def author = "Philipp Eschenbach"
