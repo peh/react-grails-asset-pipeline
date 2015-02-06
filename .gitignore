@@ -5,3 +5,5 @@ plugin.xml
 *.zip
 *.zip.sha1
 /web-app
+/idea
+*.iml
