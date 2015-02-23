@@ -13,6 +13,18 @@ e.g.
 //= require react-with-jsx
 ```
 
+there are also seperated packages for jsx only
+
+```
+//= require jsx
+```
+
+or react with addons (without jsx)
+
+```
+//= require react-with-addons
+```
+
 Template Precompilation
 -----
 The real power of this plugin is the server side precompilation of JSX templates.
@@ -34,3 +46,9 @@ You can now get rid of browser side JSX and just use the "react" asset.
 ToDo
 -----
 * add Config.groovy option to change template compilation options
+
+
+Changelog
+-----
+* 1.1 (23 Feb. 2015) added react-with-options package
+* 1.0 initial release
