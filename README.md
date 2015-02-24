@@ -4,6 +4,14 @@ A Plugin that adds JSX template precompilation and react assets to the Grails As
 
 For more information on how to use asset-pipeline, click [here](http://www.github.com/bertramdev/asset-pipeline).
 
+Installation
+-----
+add
+```
+compile(':react-asset-pipeline:1.0.7')
+```
+to your BuildConfig.groovy
+
 Usage
 -----
 If you just want react assets in your app you can either require react (for only react.js) or react-with-jsx (for browser side jsx compilation)
