@@ -1,0 +1,1 @@
+//= require vendor/react-with-addons
