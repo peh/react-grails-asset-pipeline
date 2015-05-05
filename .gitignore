@@ -1,3 +1,7 @@
+/.settings/
+/.gradle/
+/bin/
+/build/
 .DS_Store
 .idea
 /target
@@ -8,3 +12,5 @@ plugin.xml
 /web-app
 /idea
 *.iml
+*.project
+*.classpath
