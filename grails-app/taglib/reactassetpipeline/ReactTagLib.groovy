@@ -4,7 +4,7 @@ import grails.util.Environment
 import grails.core.GrailsApplication
 
 class ReactTagLib {
-    static namespace = "asset2"
+    static namespace = "asset"
     static defaultEncodeAs = [taglib:'raw']
     GrailsApplication grailsApplication
     //static encodeAsForTags = [tagName: [taglib:'html'], otherTagName: [taglib:'none']]

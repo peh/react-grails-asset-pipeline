@@ -2,3 +2,13 @@
 /.gradle/
 /bin/
 /build/
+.DS_Store
+.idea
+/target
+plugin.xml
+*.log
+*.zip
+*.zip.sha1
+/web-app
+/idea
+*.iml
