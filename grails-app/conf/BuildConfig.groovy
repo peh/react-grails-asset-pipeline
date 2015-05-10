@@ -8,12 +8,13 @@ grails.project.dependency.resolution = {
     repositories {
         grailsCentral()
         mavenCentral()
+        mavenLocal()
         jcenter()
-        mavenRepo "https://raw.github.com/peh/errbuddy-plugins/mvn-repo"
+        mavenRepo "http://dl.bintray.com/errbuddy/plugins"
     }
 
     dependencies {
-        compile 'net.errbuddy.plugins:react-asset-pipeline:1.0.6'
+        compile 'net.errbuddy.plugins:react-asset-pipeline:2.0.0'
     }
     plugins {
 
