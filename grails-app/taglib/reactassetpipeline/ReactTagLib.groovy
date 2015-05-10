@@ -3,7 +3,7 @@ package reactassetpipeline
 class ReactTagLib {
     static namespace = "asset"
     static defaultEncodeAs = [taglib:'raw']
-    def grailsApplication
+    GrailsApplication grailsApplication
 
     def reactTemplate = {attrs ->
         def src = attrs.remove('src')
