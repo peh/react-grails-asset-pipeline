@@ -8,7 +8,7 @@ Installation
 -----
 add
 ```
-compile(':react-asset-pipeline:1.0.7')
+compile(':react-asset-pipeline:2.0.0')
 ```
 to your BuildConfig.groovy
 
@@ -58,5 +58,7 @@ ToDo
 
 Changelog
 -----
+* 2.0 (10 Mai 2015) updated to react 0.13
+** enabled harmony transformation
 * 1.1 (23 Feb. 2015) added react-with-options package
 * 1.0 initial release
